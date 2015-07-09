@@ -1,6 +1,4 @@
 # This is an implicit value, here for clarity
 --index https://pypi.python.org/simple/
 
-MyPackage==1.0
-requests==1.2.0
 bcrypt==1.0.2
