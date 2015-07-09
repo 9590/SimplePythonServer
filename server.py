@@ -2,7 +2,7 @@ import SimpleHTTPServer
 import SocketServer
 import Handlers
 
-PORT = 8000
+PORT = 80
 
 Handler = Handlers.RequestHandler
 Address = ("",PORT)
